@@ -1,6 +1,10 @@
 
 export default function Home() {
   return (
-    <main>hello</main>
+    <main>
+      <center>
+        NEXT JS TEMPLATE
+      </center>
+    </main>
   );
 }

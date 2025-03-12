@@ -2,4 +2,5 @@
 
 interface CloudflareEnv {
 	ASSETS: Fetcher;
+	MESSAGE: HELLO;
 }
